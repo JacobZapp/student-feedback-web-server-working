@@ -1,0 +1,10 @@
+/* this is styles for the whole website, which means it is static */
+
+body {
+    background: lavender;
+    font-family: 'Roboto Slab', serif;
+}
+
+.header {
+    font-family: 'Pacifico', cursive;
+}
